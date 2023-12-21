@@ -12,8 +12,5 @@ About:
 
 
 
-## Github Status
-
-![](https://github-readme-stats.vercel.app/api?username=JDFranz&show_icons=true&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)
 
 
