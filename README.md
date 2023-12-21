@@ -1,7 +1,7 @@
 ### Hello world 👋, I'm Jan D. Franz
 
 About:
-- studying electtrical engineering and IT at RWTH university (Germany)
+- studying electrical engineering and IT at RWTH university (Germany)
 
 
 
