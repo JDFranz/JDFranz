@@ -15,7 +15,8 @@ About:
 ![](https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white)
 ![](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge) 
-![](https://img.shields.io/docker/pulls/mashape/kong.svg)
+[![Docker Pulls](https://badgen.net/docker/pulls/trueosiris/godaddypy?icon=docker&label=pulls)](https://hub.docker.com/r/trueosiris/godaddypy/)
+
 
 My Website:
-[franzchise.meetfranz.de ](https://franzchise.meetfranz.de/Components)https://franzchise.meetfranz.de/Components
+[franzchise.meetfranz.de ](https://franzchise.meetfranz.de/)
