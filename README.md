@@ -1,11 +1,11 @@
-# Hello world 👋, I'm Jan D. Franz
+# Hello world 👋, I'm [Jan D. Franz](https://franzchise.meetfranz.de/)
 
 About:
 - studying computer engineering  at RWTH university (Germany)
 - CTO of KaiserFranz-Engineering UG (haftungsbeschränkt) 
 - Maintainer/Creator of multiple German apps.
 
-## I currently code in  🚀: 
+## I currently code on  🚀: 
 ![](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
@@ -17,6 +17,3 @@ About:
 ![](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge) 
 [![Docker Pulls](https://badgen.net/docker/pulls/trueosiris/godaddypy?icon=docker&label=pulls)](https://hub.docker.com/r/trueosiris/godaddypy/)
 
-
-My Website:
-[franzchise.meetfranz.de ](https://franzchise.meetfranz.de/)
