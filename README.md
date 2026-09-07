@@ -1,9 +1,4 @@
-# Hello world 👋, I'm [Jan D. Franz](https://blog.franzchise.com/)
+Hello, I’m Jan D. Franz 👋
+I’m studying Computer Engineering at RWTH Aachen University, with a focus on embedded engineering, hardware development, embedded software, and application development.
 
-About:
-- studying computer engineering  at RWTH university (Germany)
-- former CTO of KaiserFranz-Engineering UG (haftungsbeschränkt) 
-- Maintainer/Creator of multiple German apps.
-
-
-[My Website](https://blog.franzchise.com/)
+🌐 (https://blog.franzchise.com/)[My website]
